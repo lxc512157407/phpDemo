@@ -94,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/advance/date.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            <state relative-caret-position="247">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -153,8 +153,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="557" />
-    <option name="y" value="82" />
+    <option name="x" value="546" />
     <option name="width" value="1323" />
     <option name="height" value="1047" />
   </component>
@@ -170,11 +169,6 @@
               <item name="www.learn.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.learn.com" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="www.learn.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.learn.com" type="462c0819:PsiDirectoryNode" />
-              <item name="advance" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -183,6 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -222,18 +217,17 @@
       <updated>1558097594939</updated>
       <workItem from="1558097596125" duration="12452000" />
       <workItem from="1558147806137" duration="5210000" />
-      <workItem from="1558249748689" duration="17032000" />
+      <workItem from="1558249748689" duration="17334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34694000" />
+    <option name="totallyTimeSpent" value="34996000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1033" y="56" width="1323" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="546" y="0" width="1323" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121140145" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.121140145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,7 +240,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -427,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/advance/date.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="247">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
